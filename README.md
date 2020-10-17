@@ -1,4 +1,4 @@
-# DataCon-2020-Coremail---
+# DataCon. 2020 Coremail邮件安全竞赛 赛题一
 DataCon 2020 Coremail邮件安全竞赛-赛题一满分方法源码
 
 可能是运气好碰巧找到了所有过滤规则，请各位大佬不要笑我这个菜鸡，哈哈哈
